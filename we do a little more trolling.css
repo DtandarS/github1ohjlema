@@ -1,8 +1,31 @@
 body {
-    background-color: aliceblue;
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+    display: block;
     text-decoration: none;
-
+}
+header{
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 18px;
+    margin: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.elnart{
+    position: absolute;
+    right: 50px;
+    left: 800px;
+    font-size: 30px;
 }
 .jakke {
+    text-decoration: none;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+    position: absolute;
+    left: 50px;
+    padding: 12px;
+    border-radius: 18px;
 }
